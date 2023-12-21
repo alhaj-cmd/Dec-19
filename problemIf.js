@@ -1,4 +1,4 @@
-const naMe = "Rohim";
+const naMe = "tarek";
  
 if (naMe == 'Rohim' ){
 console.log('Rohim is a good boy');}
