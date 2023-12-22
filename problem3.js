@@ -1,4 +1,5 @@
-const num = 300;
+
+const num = '30';
 
 
 if(num == 30){
